@@ -12,7 +12,6 @@ This resource is NOT intended as a guide, and is instead just a list of mods. [C
 | Name  | Meaning |
 | ------------- | ------------- |
 | AE  | Anniversary Edition (1.6.xxx) version available.  |
-| Non-mantitory  | I consider it subjective, and not essential for every user.  |
 | Buggy  | People have frequent issues with the mod.  |
 | Extra Steps  | Mod requires extra installation steps.  |
 
