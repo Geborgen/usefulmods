@@ -1,11 +1,9 @@
 # Useful Mods & Tools
 Useful and recommended mods for Skyrim SE/AE. This was created to provide a repository/resource for new modders looking for the most "essential" mods for their game. 
 
-Almost nothing listed here is subjective, they are all bugfixes/QoL improvements.
+This resource is NOT intended as a guide, and is instead just a list of mods. [Click here for my modding guide.](https://docs.google.com/document/d/1jTXnuuLZQ201rLRFw0TbxDnBDO9DqZDcCqFIJJSXCDU/edit?usp=sharing)
 
 CREDITS: [SME(FT) Modlist](https://eziothedeadpoet.github.io/SME-FT-/)
-
-This resource is NOT intended as a guide, and is instead just a list of mods. [Click here for my modding guide.](https://docs.google.com/document/d/1jTXnuuLZQ201rLRFw0TbxDnBDO9DqZDcCqFIJJSXCDU/edit?usp=sharing)
 
 # Categories
 * [Tools](https://github.com/Geborgen/usefulmods/blob/main/TOOLS.md)
