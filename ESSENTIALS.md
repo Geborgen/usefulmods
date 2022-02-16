@@ -18,6 +18,6 @@ Mods that are needed for almost every load order, or frameworks that other mods 
 | [PapyrusUtil SE](https://www.nexusmods.com/skyrimspecialedition/mods/13048)  | An SKSE plugin adding several new scripts with native functions that provide various conveniences related to data storage and other misc functions to the scripter/modder.  | AE |
 | [ConsoleUtilSSE](https://www.nexusmods.com/skyrimspecialedition/mods/24858)  | This mod enables papyrus scripts to execute console commands  | AE |
 | [JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)  | Extends Skyrim SE Papyrus scripts (or SKSE/C++ plugins) with JSON based serializable data structures like arrays and maps. Embedded Lua interpreter.  | AE |
-| Link  | Desc  | n/a |
-| Link  | Desc  | n/a |
-| Link  | Desc  | n/a |
+| [XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988)  | XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.  | AE, NSFW |
+| [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)  | Framework for memory editing, native code hooking and writing DLL plugins in any .NET language.  | None |
+| [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59596)  | Generates crash logs when the game Just Works™  | AE |
