@@ -16,9 +16,9 @@ CREDITS: [SME(FT) Modlist](https://eziothedeadpoet.github.io/SME-FT-/)
 
 | Name  | Meaning |
 | ------------- | ------------- |
-| AE  | Anniversary Edition (1.6.xxx) version available, or tested and working with AE.  |
 | Buggy  | People have frequent issues with the mod. Be sure to check the posts tab. |
 | Extra Steps  | Mod requires extra installation steps. Make sure you read every mod page.  |
 | NSFW  | Mod page contains NSFW images.  |
+Additionally, mods that work with the Anniversary Edition update will be indicated as such.
 
 
