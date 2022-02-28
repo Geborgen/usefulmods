@@ -3,7 +3,7 @@
 
 Mods that aren't necessarily essential/QoL but are still highly recommended.
 
-| Name  | Description | Labels |
-| ------------- | ------------- | ------------ |
-| Link  | Desc  | n/a |
-| Link  | Desc  | n/a |
+| Name  | Description | AE | Labels |
+| ------------- | ------------- | ------------ | ------------ |
+| Link  | Desc  | :white_check_mark: | n/a |
+| Link  | Desc  | :white_check_mark: | n/a |
