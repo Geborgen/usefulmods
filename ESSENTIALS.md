@@ -19,5 +19,5 @@ Mods that are needed for almost every load order, or frameworks that other mods 
 | [ConsoleUtilSSE](https://www.nexusmods.com/skyrimspecialedition/mods/24858)  | This mod enables papyrus scripts to execute console commands  | :white_check_mark: |
 | [JContainers SE](https://www.nexusmods.com/skyrimspecialedition/mods/16495)  | Extends Skyrim SE Papyrus scripts (or SKSE/C++ plugins) with JSON based serializable data structures like arrays and maps. Embedded Lua interpreter.  | :white_check_mark: |
 | [XP32 Maximum Skeleton Special Extended](https://www.nexusmods.com/skyrimspecialedition/mods/1988)  | XP32 Maximum Skeleton Special Extended is the update of XP32 Maximum Skeleton Extended for Skyrim Special Edition.  | :white_check_mark: |
-| [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)  | Framework for memory editing, native code hooking and writing DLL plugins in any .NET language.  | :white_check_mark: |
+| [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294)  | Framework for memory editing, native code hooking and writing DLL plugins in any .NET language.  | :x: |
 | [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59596)  | Generates crash logs when the game Just Works™  | :white_check_mark: |
