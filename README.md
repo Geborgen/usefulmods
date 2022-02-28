@@ -6,6 +6,7 @@ This resource is NOT intended as a guide, and is instead just a list of mods. [C
 CREDITS: 
 * Mod descriptions pulled from their respective Nexus pages 
 * [SME(FT) Modlist](https://eziothedeadpoet.github.io/SME-FT-/)
+* All mod authors and software developers
 
 # Categories
 * [Tools](https://github.com/Geborgen/usefulmods/blob/main/TOOLS.md)
