@@ -7,6 +7,7 @@ CREDITS:
 * Mod descriptions pulled from their respective Nexus pages 
 * [SME(FT) Modlist](https://eziothedeadpoet.github.io/SME-FT-/)
 * All mod authors and software developers
+* Bethesda, of course
 
 # Categories
 * [Tools](https://github.com/Geborgen/usefulmods/blob/main/TOOLS.md)
