@@ -3,7 +3,7 @@
 
 Mods that fix bugs in the game.
 
-| Name  | Description | Labels |
-| ------------- | ------------- | ------------ |
-| Link  | Desc  | n/a |
-| Link  | Desc  | n/a |
+| Name  | Description | AE | Labels |
+| ------------- | ------------- | ------------ | ------------ |
+| Link  | Desc  | :white_check_mark: | n/a |
+| Link  | Desc  | :white_check_mark: | n/a |
