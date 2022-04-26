@@ -14,7 +14,6 @@ CREDITS:
 * [Essentials](https://github.com/Geborgen/usefulmods/blob/main/ESSENTIALS.md)
 * [Bugfixes](https://github.com/Geborgen/usefulmods/blob/main/BUGFIXES.md)
 * [Quality of Life](https://github.com/Geborgen/usefulmods/blob/main/QOL.md)
-* [Misc. Recommended](https://github.com/Geborgen/usefulmods/blob/main/RECOMMENDED.md)
 
 # Labels
 
