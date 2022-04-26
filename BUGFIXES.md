@@ -22,6 +22,3 @@ Mods that fix bugs in the game. This list will start with mesh fixes and move on
 | [Fast Travel Speed Fix](https://www.nexusmods.com/skyrimspecialedition/mods/1503)  |  Analogous to the 'Fast travel timescale fix' from Skyrim, this mod adjusts a game setting variable in an effort to change the amount of time that passes during your fast travel.   | :white_check_mark: |
 | [NPC AI Process Position Fix](https://www.nexusmods.com/skyrimspecialedition/mods/40261)  |  A DLL plugin that fixes the vanilla game engine bug that NPCs AI process positions could not be updated after you waiting/ sleeping/ fast travel.   | :x: |
 | [First Person Sneak Strafe-Walk Stutter Fix](https://www.nexusmods.com/skyrimspecialedition/mods/31165)  |  Fixes the periodic camera stutter that occurs when slow-sneaking diagonally forward and to the right (W+D).   | :white_check_mark: |
-| Link  | Desc  | :white_check_mark: | n/a |
-| Link  | Desc  | :white_check_mark: | n/a |
-| Link  | Desc  | :white_check_mark: | n/a |
