@@ -14,8 +14,11 @@ These aren't mods, and are rather external tools users may need for modding.
 | [Mator Smash](https://www.nexusmods.com/skyrimspecialedition/mods/39378)  | Mator Smash is a tool that generates conflict resolution patches, similar to Wrye Bash's Bashed Patch. Smash is capable of handling conflicts in all record types.  |
 | [Synthesis](https://github.com/Mutagen-Modding/Synthesis)  | A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.  |
 | [zEdit](https://github.com/z-edit/zedit)  | An integrated development environment for Bethesda Plugin Files.  |
+| [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316)  |  An automation tool used to optimize BSAs, meshes, textures and animations. It helps quickly porting an Oldrim mod to Skyrim Special Edition, and can optimize assets for many Bethesda games. |
 | [Creation Kit](https://bethesda.net/en/game/bethesda-launcher)  | The Creation Kit is the official tooling by Bethesda Game Studios for working with Data Files.  |
 | [SSE CreationKit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061)  | Various patches and bug fixes for the Creation Kit to make life easier.  |
 | [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)  | An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types.  |
 | [Nemesis](https://www.nexusmods.com/skyrimspecialedition/mods/60033)  | Your all in 1 skyrim behavior framework. Automated behavior modification extraction, behavior patching and more.  |
-| [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313)  | Painlessly mix, merge, and resolve conflicts and compatibility issues for all of your NPC overhauls.  |
+| [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313)  | Painlessly mix, merge, and resolve conflicts and compatibility issues for all of your NPC overhauls. |
+| [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)  | DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim.  |
+| [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-93-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/)  | This is a utility used to generate LOD meshes and textures "exactly" like the CK. |
