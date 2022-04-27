@@ -26,3 +26,4 @@ Mods that fix bugs in the game. This list will start with mesh fixes and move on
 | [NPC AI Process Position Fix](https://www.nexusmods.com/skyrimspecialedition/mods/40261)  |  A DLL plugin that fixes the vanilla game engine bug that NPCs AI process positions could not be updated after you waiting/ sleeping/ fast travel.   | :x: |
 | [First Person Sneak Strafe-Walk Stutter Fix](https://www.nexusmods.com/skyrimspecialedition/mods/31165)  |  Fixes the periodic camera stutter that occurs when slow-sneaking diagonally forward and to the right (W+D).   | :white_check_mark: |
 | [Combat Music Fix](https://www.nexusmods.com/skyrimspecialedition/mods/67015?tab=description)  |  Simple SKSE plugin to fix the never-ending combat music bug.   | :white_check_mark: |
+| [Mfg Fix](https://www.nexusmods.com/skyrimspecialedition/mods/11669)  |  Fixes <mfg> console command and adds some other fixes.   | :white_check_mark: |
