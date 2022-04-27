@@ -15,6 +15,7 @@ These aren't mods, and are rather external tools users may need for modding.
 | [Synthesis](https://github.com/Mutagen-Modding/Synthesis)  | A framework and GUI to construct a single Bethesda game patch from many patcher sources. Designed to allow any program to work as a patcher as long as it conforms to the CLI API.  |
 | [zEdit](https://github.com/z-edit/zedit)  | An integrated development environment for Bethesda Plugin Files.  |
 | [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316)  |  An automation tool used to optimize BSAs, meshes, textures and animations. It helps quickly porting an Oldrim mod to Skyrim Special Edition, and can optimize assets for many Bethesda games. |
+| [SSE NIF Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/4089)  |  A tool for mod authors that optimizes your SK NIF files for the (actual) new SSE format and fixes issues. Can also scan textures for compatibility.  |
 | [Creation Kit](https://bethesda.net/en/game/bethesda-launcher)  | The Creation Kit is the official tooling by Bethesda Game Studios for working with Data Files.  |
 | [SSE CreationKit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061)  | Various patches and bug fixes for the Creation Kit to make life easier.  |
 | [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201)  | An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types.  |
