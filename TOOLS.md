@@ -23,3 +23,4 @@ These aren't mods, and are rather external tools users may need for modding.
 | [EasyNPC](https://www.nexusmods.com/skyrimspecialedition/mods/52313)  | Painlessly mix, merge, and resolve conflicts and compatibility issues for all of your NPC overhauls. |
 | [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/32382)  | DynDOLOD is a set of simple tools based on xEdit/xLODGen to automatically create a Skyrim mod based on the load order which adds distant LOD for objects and trees to Skyrim.  |
 | [xLODGen](https://stepmodifications.org/forum/topic/13451-xlodgen-terrain-lod-beta-93-for-fnv-fo3-fo4-fo4vr-tes5-sse-tes5vr-enderal-enderalse/)  | This is a utility used to generate LOD meshes and textures "exactly" like the CK. |
+| [FallrimTools](https://www.nexusmods.com/skyrimspecialedition/mods/5031)  |  FallrimTools includes ReSaver, which is a powerful savegame editor/cleaner for Skyrim Legendary Edition, Skyrim Special Edition, and Fallout 4.  |
