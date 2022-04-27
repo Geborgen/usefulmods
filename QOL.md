@@ -16,3 +16,5 @@ Mods that aren't exactly essential, but many users will find useful.
 | [Horses Simply Turn Better](https://www.nexusmods.com/skyrimspecialedition/mods/57790)  |  Makes horses turn much better   | :white_check_mark: |
 | [Intuitive Dragon Ride Control](https://www.nexusmods.com/skyrimspecialedition/mods/64679)  |  Use intuitive ride commands to fully control your flights with any vanilla dragon, and with existing dragon follower mods.   | :white_check_mark: |
 | [Dawnguard Don't Hunt Cured Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/5471)  |  Stops the Dawnguard vampire hunters random event if you have cured your vampirism.   | :white_check_mark: |
+| [Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272)  |  A small mod that makes citizens in a village or city run indoors during a dragon attack. | :white_check_mark: |
+| [ENB Input Disabler](https://www.nexusmods.com/skyrimspecialedition/mods/62796)  |  SKSE plugin which disables mouse and keyboard input for everything but the console, when the ENB editor is active.  | :white_check_mark: |
