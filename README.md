@@ -1,7 +1,7 @@
 # Useful Mods & Tools
 Useful and recommended mods for Skyrim SE/AE. This was created to provide a repository/resource for new modders looking for the most "essential" mods for their game. 
 
-This resource is NOT intended as a guide, and is instead just a list of mods.
+This resource is NOT intended as a guide, and is instead just a list of mods. Check [here](https://docs.google.com/document/d/1jTXnuuLZQ201rLRFw0TbxDnBDO9DqZDcCqFIJJSXCDU/edit?usp=sharing) for our modding guide.
 
 CREDITS: 
 * Mod descriptions pulled from their respective Nexus pages 
