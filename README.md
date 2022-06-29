@@ -28,6 +28,6 @@ Additionally, mods that work with the Anniversary Edition update will be indicat
 
 * [Modding Guide](https://docs.google.com/document/d/1jTXnuuLZQ201rLRFw0TbxDnBDO9DqZDcCqFIJJSXCDU/edit?usp=sharing)
 * [Modding Support Discord Bot](https://github.com/Geborgen/moddingsupport)
-* [r/Skyrim Discord Server](https://discord.com/invite/skyrim)
+* [r/skyrim Discord Server](https://discord.com/invite/skyrim)
 * [Geb's Modlist](https://loadorderlibrary.com/lists/gebs-skyrim-overhaul)
 
