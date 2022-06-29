@@ -8,6 +8,7 @@ Mods that aren't exactly essential, but many users will find useful.
 | ------------- | ------------- | ------------ | ------------ |
 | [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309) | Ever get annoyed that you can't use your mouse with your gamepad plugged in? Now you can switch between them painlessly. | :white_check_mark: |
 | [Notification Filter](https://www.nexusmods.com/skyrimspecialedition/mods/67925) | SKSE plugin that allows hiding notifications based on customizable rules. | :white_check_mark: |
+| [MCM Recorder](https://www.nexusmods.com/skyrimspecialedition/mods/61719) | Configuring MCMs has never been easier! | :white_check_mark: |
 | [Sweeping Organizes Stuff](https://www.nexusmods.com/skyrimspecialedition/mods/51645) | Use broom to clean up physics mess | :white_check_mark: |
 | [Simple Optional Shortcuts](https://www.nexusmods.com/skyrimspecialedition/mods/68064) | Get to interior locations faster by optionally bypassing extra loading doors at Ragged Flagon Cistern, College Hall of Elements, Jorrvaskr Upstairs etc | :white_check_mark: |
 | [Remember Lockpick Angle](https://www.nexusmods.com/skyrimspecialedition/mods/26838) | After breaking a lock-pick, the new lock-pick is placed at the same angle where the last one broke. | :white_check_mark: |
