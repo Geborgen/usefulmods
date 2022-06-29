@@ -17,11 +17,11 @@ CREDITS:
 
 # Labels
 
-| Name  | Meaning |
+| Name | Meaning |
 | ------------- | ------------- |
-| Buggy  | People have frequent issues with the mod. Be sure to check the posts tab. |
-| Extra Steps  | Mod requires extra installation steps. Make sure you read every mod page.  |
-| NSFW  | Mod page contains NSFW images.  |
+| Buggy | People have frequent issues with the mod. Be sure to check the posts tab. |
+| Extra Steps | Mod requires extra installation steps. Make sure you read every mod page. |
+| NSFW | Mod page contains NSFW images. |
 
 Additionally, mods that work with the Anniversary Edition update will be indicated as such.
 
