@@ -7,6 +7,7 @@ These aren't mods, and are rather external tools users may need for modding.
 | ------------- | ------------- |
 | [Mod Organizer 2](https://www.nexusmods.com/skyrimspecialedition/mods/6194) | Mod Organizer (MO) is a tool for managing mod collections of arbitrary size. It is specifically designed for people who like to experiment with mods and thus need an easy and reliable way to install and uninstall them. |
 | [Vortex](https://www.nexusmods.com/about/vortex/) | The elegant, powerful, and open-source mod manager from Nexus Mods. |
+| [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618) | An automated patcher to downgrade your Skyrim install from the new AE version to the previous SE version, without redistributing files or requiring any sort of complexity. Just download this, and click "Patch" and it'll do the work. |
 | [BethINI](https://www.nexusmods.com/skyrimspecialedition/mods/4875) | Bethesda's INI configuration files are a mess. BethINI optimizes the game for increased graphical fidelity and performance. |
 | [LOOT](https://loot.github.io/) | The Load Order Optimization Tool |
 | [xEdit](https://www.nexusmods.com/skyrimspecialedition/mods/164) | SSEEdit is the Skyrim: Special Edition version of xEdit. xEdit is an advanced graphical module viewer/editor and conflict detector. |
@@ -16,7 +17,8 @@ These aren't mods, and are rather external tools users may need for modding.
 | [zEdit](https://github.com/z-edit/zedit) | An integrated development environment for Bethesda Plugin Files. |
 | [Cathedral Assets Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/23316) | An automation tool used to optimize BSAs, meshes, textures and animations. It helps quickly porting an Oldrim mod to Skyrim Special Edition, and can optimize assets for many Bethesda games. |
 | [SSE NIF Optimizer](https://www.nexusmods.com/skyrimspecialedition/mods/4089) | A tool for mod authors that optimizes your SK NIF files for the (actual) new SSE format and fixes issues. Can also scan textures for compatibility. |
-| [Creation Kit](https://bethesda.net/en/game/bethesda-launcher) | The Creation Kit is the official tooling by Bethesda Game Studios for working with Data Files. |
+| [Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) | The Creation Kit is the official tooling by Bethesda Game Studios for working with Data Files. |
+| [Creation Kit Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/67096) | Downgrades the new Steam Creation Kit back to the way it was from Bethesda.Net so you can use the Creation Kit Fixes again. |
 | [SSE CreationKit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/20061) | Various patches and bug fixes for the Creation Kit to make life easier. |
 | [BodySlide and Outfit Studio](https://www.nexusmods.com/skyrimspecialedition/mods/201) | An easy to use tool for customizing bodies and outfits, creating new bodies and outfits, and converting outfits between body types. |
 | [Nemesis](https://www.nexusmods.com/skyrimspecialedition/mods/60033) | Your all in 1 skyrim behavior framework. Automated behavior modification extraction, behavior patching and more. |
