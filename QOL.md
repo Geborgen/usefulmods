@@ -13,7 +13,7 @@ Mods that aren't exactly essential, but many users will find useful.
 | [Simple Optional Shortcuts](https://www.nexusmods.com/skyrimspecialedition/mods/68064) | Get to interior locations faster by optionally bypassing extra loading doors at Ragged Flagon Cistern, College Hall of Elements, Jorrvaskr Upstairs etc | :white_check_mark: |
 | [Remember Lockpick Angle](https://www.nexusmods.com/skyrimspecialedition/mods/26838) | After breaking a lock-pick, the new lock-pick is placed at the same angle where the last one broke. | :white_check_mark: |
 | [Dismiss Steward](https://www.nexusmods.com/skyrimspecialedition/mods/22236) | You can dismiss your steward. | :white_check_mark: |
-| [No Crime Teleport](https://www.nexusmods.com/skyrimspecialedition/mods/13109) | Disables the teleportation when paying off bounty. | :white_check_mark: |
+| [No Crime Teleport RE](https://www.nexusmods.com/skyrimspecialedition/mods/71691) | Simple SKSE plugin fixing the annoying teleportation after paying a fine. | :white_check_mark: |
 | [Use Telekinesis on Traps](https://www.nexusmods.com/skyrimspecialedition/mods/59350) | Allow you to use telekinesis on soul gem traps, trip wires, pressure plates, and more. | :white_check_mark: |
 |[Read Or Take SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/69588) | Simple SKSE plugin that allows you to read OR take books | :white_check_mark: |
 | [Essential Favorites](https://www.nexusmods.com/skyrimspecialedition/mods/42997) | SKSE plugin that prevents favorited items from being sold, crafted, disarmed, disenchanted, or dropped. | :white_check_mark: |
