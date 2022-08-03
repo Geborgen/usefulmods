@@ -57,7 +57,6 @@ Mods that fix bugs in the game.
 | [Stones of Solitude - Better Blended Rock Piles](https://www.nexusmods.com/skyrimspecialedition/mods/60762) | Replace Solitude rock piles with better blended versions using Base Object Swapper | :white_check_mark: |
 | [Better Blended Mushrooms](https://www.nexusmods.com/skyrimspecialedition/mods/67725) | Replaces all types of mushrooms in mines and caves with better blended versions using Base Object Swapper. | :white_check_mark: |
 | [Floating Ash Pile Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63434) | Fix floating ash piles by making them fall down to the ground | :white_check_mark: |
-| [Word Wall Transparency Fix for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/41463) | Remove a subtle dark rectangle around word of power on word walls and greybeard shouts for ENB users | :white_check_mark: |
 | [Bright Falling Leaves Fix](https://www.nexusmods.com/skyrimspecialedition/mods/64524) | Fixes bright falling leaves at night | :white_check_mark: |
 | [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012) | Solstheim Spiders have a barely noticeable transparency, which causes numerous visual glitches. This mod removes it. | :white_check_mark: |
 | [Wiseman303's Flora Fixes - Revamped](https://www.nexusmods.com/skyrimspecialedition/mods/28197) | Fixes bugs relating to harvestable objects in Skyrim, including the Flora Respawn Bug, in a performance friendly manner. | :white_check_mark: |
