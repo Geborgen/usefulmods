@@ -4,7 +4,7 @@
 Mods that are needed for almost every load order, or frameworks that other mods depend on.
 
 | Name | Description | Labels |
-| ------------- | ------------- | ------------ | ------------ |
+| ------------- | ------------- | ------------ |
 | [Skyrim Script Extender (SKSE)](https://skse.silverlock.org/) | A tool used by many Skyrim mods that expands scripting capabilities and adds additional functionality to the game. | Extra Steps |
 | [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444) | Contains header file and a database to make SKSE DLL plugins version independent easily. |
 | [SSE Engine Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/17230) | skse64 plugin to fix various issues with the Skyrim Special Edition engine. | Extra Steps |
