@@ -5,23 +5,20 @@ This resource is NOT intended as a guide, and is instead just a list of mods. If
 
 **All mods listed will work with AE unless otherwise indicated. Remember to pay attention to the version of mods you download.**
 
-### Credits
-* Mod descriptions pulled from their respective Nexus pages 
-* All mod authors and software developers
-* [SME Modlist](https://thephoenixflavour.com/skyrim-se/sme/introduction/)
-* Bethesda, of course
-
-# Categories
+## Categories
 * [Tools](https://github.com/Geborgen/usefulmods/blob/main/TOOLS.md)
 * [Essentials](https://github.com/Geborgen/usefulmods/blob/main/ESSENTIALS.md)
-* [Bugfixes - General](https://github.com/Geborgen/usefulmods/blob/main/BUGFIXES%20-%20GENERAL.md)
-* [Bugfices - SKSE](https://github.com/Geborgen/usefulmods/blob/main/BUGFIXES%20-%20SKSE.md)
-* [Bugfixes - Textures & Meshes](https://github.com/Geborgen/usefulmods/blob/main/BUGFIXES%20-%20TEXTURES%20%26%20MESHES.md)
+* [Bugfixes](https://github.com/Geborgen/usefulmods/blob/main/BUGFIXES.md)
 * [Quality of Life](https://github.com/Geborgen/usefulmods/blob/main/QOL.md)
 
-# Other Links
-
+## Other Links
 * [Modding Guide](https://sites.google.com/view/skyrimsemoddingguide/)
 * [Modding Support Discord Bot](https://github.com/Arbigate/moddingsupport)
 * [r/skyrim Discord Server](https://discord.com/invite/skyrim)
 * [Geborgen Discord Server](https://discord.com/invite/9cRs3KPyuW)
+
+## Credits
+* Mod descriptions pulled from their respective Nexus pages 
+* All mod authors and software developers
+* [SME Modlist](https://thephoenixflavour.com/skyrim-se/sme/introduction/)
+* Bethesda, of course
