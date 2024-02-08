@@ -1,4 +1,7 @@
 # Useful Mods & Tools
+
+# THIS IS HIGHLY OUTDATED AND INCOMPLETE, AND WILL NOT BE MAINTAINED. USE AT YOUR OWN RISK. THERE ARE MANY NEW AND ALTERNATIVE MODS.
+
 Useful and recommended mods for Skyrim SE/AE. This was created to provide a repository/resource for new modders looking for the most "essential" mods for their game. 
 
 This resource is NOT intended as a guide, and is instead just a list of mods. If you want a modding guide, check [here](https://sites.google.com/view/skyrimsemoddingguide/).
